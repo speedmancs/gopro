@@ -1,0 +1,12 @@
+E:\GoPro\AmazonGo\bellevue\GH010121.MP4
+00:17,00:48
+E:\GoPro\AmazonGo\bellevue\GH010122.MP4
+00:08,00:23,E:\GoPro\music\PeacefulMind.mp3
+00:44,01:24,E:\GoPro\music\ColdBlue.mp3
+01:36,02:01,E:\GoPro\music\Frolic.mp3
+02:36,03:00,E:\GoPro\music\Ammil.mp3
+03:35,04:01,E:\GoPro\music\SleepyHollow.mp3
+04:27,04:53,E:\GoPro\music\PeacefulMind.mp3
+05:00,05:18,E:\GoPro\music\ColdBlue.mp3
+E:\GoPro\AmazonGo\bellevue\GH010123.MP4
+00:06,01:43
